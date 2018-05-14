@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">陀螺仪示例</string>
+    <string name="tv_x_label">绕 X 轴旋转：</string>
+    <string name="tv_y_label">绕 Y 轴旋转：</string>
+    <string name="tv_z_label">绕 Z 轴旋转：</string>
+    <string name="tv_no_sensor">本机没有陀螺仪传感器.</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">First Gyroscope</string>
+    <string name="tv_x_label">Rotation X Axis: </string>
+    <string name="tv_y_label">Rotation Y Axis: </string>
+    <string name="tv_z_label">Rotation Z Axis: </string>
+    <string name="tv_no_sensor">There is no groscope sensor.</string>
+</resources>
